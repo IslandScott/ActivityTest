@@ -1,0 +1,7 @@
+#Mon Oct 02 00:02:42 CST 2017
+base.0=C\:\\Users\\Administrator.SKY-20170704ALF\\Desktop\\ActivityTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a4f8a4ad65604c9ac6a3ce3b4951c9166999de62
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Administrator.SKY-20170704ALF\\Desktop\\ActivityTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6e98cef4a8837e5a8eeb34f3b17524f97adacb1d\\classes.dex
+base.1=C\:\\Users\\Administrator.SKY-20170704ALF\\Desktop\\ActivityTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6e98cef4a8837e5a8eeb34f3b17524f97adacb1d
+file.0=C\:\\Users\\Administrator.SKY-20170704ALF\\Desktop\\ActivityTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a4f8a4ad65604c9ac6a3ce3b4951c9166999de62\\classes.dex

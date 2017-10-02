@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Administrator.SKY-20170704ALF\\Desktop\\ActivityTest\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator.SKY-20170704ALF\\.android\\build-cache\\d34acccae9a52a177b1e842fa6a60437c6ab80b0\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

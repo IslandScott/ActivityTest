@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator.SKY-20170704ALF\Desktop\ActivityTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="837869fdd89edb72ba2b433157c5a14bc7d56f24">
+        <dex dex="C:\Users\Administrator.SKY-20170704ALF\Desktop\ActivityTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a4f8a4ad65604c9ac6a3ce3b4951c9166999de62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator.SKY-20170704ALF\Desktop\ActivityTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Administrator.SKY-20170704ALF\Desktop\ActivityTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6e98cef4a8837e5a8eeb34f3b17524f97adacb1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator.SKY-20170704ALF\Desktop\ActivityTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Administrator.SKY-20170704ALF\Desktop\ActivityTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6e98cef4a8837e5a8eeb34f3b17524f97adacb1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator.SKY-20170704ALF\Desktop\ActivityTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="19bb7aa5b8abbe18c3a0ab18c8c4e152a79d5e16">
+        <dex dex="C:\Users\Administrator.SKY-20170704ALF\Desktop\ActivityTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a4f8a4ad65604c9ac6a3ce3b4951c9166999de62\classes.dex" />
+    </item>
+
+</items>
